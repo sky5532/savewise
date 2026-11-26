@@ -33,7 +33,7 @@ Capstone Brief 3, Financial Technology (BeTechified Advanced Class, Group 3). Th
 |---|---|
 | Register, login, session, current user | Connected to the backend API |
 | Goals, wallet balance, deposits, transaction history | Stored locally in the browser for the demo, so they do not follow the user to another device |
-| Forgot and reset password | Backend endpoints exist, but the screens are not built yet |
+| Forgot and reset password | Backend endpoints exist
 | Profile settings (personal information, security, preferences, notifications) | Listed as "Coming soon" |
 
 ## Run locally
